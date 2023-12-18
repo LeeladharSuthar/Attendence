@@ -1,0 +1,7 @@
+// Modela for face detection, face landmark and face recognition etc.
+https://github.com/justadudewhohacks/face-api.js/tree/master/weights
+
+//Article
+https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07
+
+
